@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Film dan Serial TV</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Serial TV</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="favorite">Favorit</string>
+    <string name="popular">Populer</string>
+    <string name="image">Gambar</string>
+    <string name="SaveFavMovie">Simpan ke Fav Film</string>
+    <string name="DeleteFavMovie">Hapus dari Fav Film</string>
+    <string name="SaveFavTV">Simpan ke Fav TV</string>
+    <string name="DeleteFavTV">Hapus dari Fav TV</string>
+    <string name="FavMovi">Fav Film</string>
+    <string name="FavTV">Fav Serial TV</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="appwidget_text">Widget Fav Film</string>
+    <string name="add_widget">Tambah widget</string>
+    <string name="empty_text">Tidak ada Data</string>
+    <string name="onTouchWidged">Gambar yang di tekan</string>
+    <string name="content_title">Judul Konten</string>
+    <string name="content_text">Text Konten</string>
+    <string name="subtext">Sub text</string>
+    <string name="notif">Notifikasi</string>
+    <string name="release_reminder">Release Reminder</string>
+    <string name="daily_reminder">Daily Reminder</string>
+</resources>
